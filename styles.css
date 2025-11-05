@@ -1,13 +1,13 @@
 @font-face {
   font-family: "Zuume Rough Bold";
-  src: url("../fonts/zuumerough-bold.ttf") format("opentype");
+  src: url("fonts/ZuumeRough-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Zuume Rough";
-  src: url("../fonts/zuumerough-regular.ttf") format("opentype");
+  src: url("fonts/ZuumeRough-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
