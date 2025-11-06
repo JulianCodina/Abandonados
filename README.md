@@ -37,6 +37,11 @@ CountdownPage/
   - Tecla Escape.
 - Al cerrar, el reproductor se detiene reiniciando el `src` del iframe.
 
+## Reproducción de audio
+
+- El audio comienza al cerrar el modal de video
+- Se puede controlar con el botón de volumen en la interfaz
+
 ## Fuentes
 
 Las fuentes están servidas localmente. Asegúrate de mantener nombres y rutas con mayúsculas/minúsculas exactas (importante en producción):
