@@ -23,6 +23,7 @@ CountdownPage/
 ├─ index.html
 ├─ styles.css
 ├─ main.js
+├─ audio/
 ├─ fonts/
 └─ imgs/
 ```
