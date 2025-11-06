@@ -1,23 +1,17 @@
 @font-face {
-  font-family: "Zuume Rough Bold";
-  src: url("fonts/ZuumeRough-Bold.ttf") format("truetype"),
-    url("/fonts/ZuumeRough-Bold.ttf") format("truetype"),
-    url("../fonts/ZuumeRough-Bold.ttf") format("truetype");
-  font-weight: bold;
+  font-family: "Zuume Rough";
+  src: url("fonts/ZuumeRough-Regular.ttf") format("truetype");
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
-  font-display: optional;
 }
 
 @font-face {
   font-family: "Zuume Rough";
-  src: url("fonts/ZuumeRough-Regular.ttf") format("truetype"),
-    url("/fonts/ZuumeRough-Regular.ttf") format("truetype"),
-    url("../fonts/ZuumeRough-Regular.ttf") format("truetype");
-  font-weight: normal;
+  src: url("fonts/ZuumeRough-Bold.ttf") format("truetype");
+  font-weight: bold;
   font-style: normal;
   font-display: swap;
-  font-display: optional;
 }
 
 :root {
