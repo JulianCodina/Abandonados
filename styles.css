@@ -832,6 +832,32 @@ section {
   pointer-events: auto;
 }
 
+#creditos {
+  color: transparent;
+  background-image: linear-gradient(
+    to left,
+    #33cc2e,
+    #34dbca,
+    #3673e3,
+    #99ff00,
+    #33cc2e,
+    #34dbca
+  );
+  background-clip: text;
+  animation: color 3s linear infinite;
+  background-size: 500%;
+}
+
+@keyframes color {
+  from {
+    background-position: 0% 50%;
+  }
+
+  to {
+    background-position: 100% 50%;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
